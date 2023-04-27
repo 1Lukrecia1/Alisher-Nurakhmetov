@@ -1,0 +1,11 @@
+shop\Order.class
+shop\EShopController.class
+storage\ItemStock.class
+shop\StandardItem.class
+archive\ItemPurchaseArchiveEntry.class
+shop\Item.class
+storage\Storage.class
+shop\ShoppingCart.class
+archive\PurchasesArchive.class
+shop\DiscountedItem.class
+storage\NoItemInStorage.class
